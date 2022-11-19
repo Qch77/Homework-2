@@ -1,0 +1,35 @@
+.partOne {
+    color: green;
+}
+
+.part-two span {
+    background-color: red;
+}
+
+.part-three > .background-yellow {
+    background-color: yellow;
+}
+
+.part-three > .background-pink{
+    background-color: pink;
+}
+
+.part-four .background-yellow {
+    background-color:  yellow;
+
+}
+
+.part-four .background-pink {
+    background-color:  pink;
+    
+}
+
+.part-four .red-text {
+    color: red;
+    
+}
+
+.part-four .blue-text {
+    color: blue;
+    
+}
